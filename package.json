@@ -1,0 +1,26 @@
+{
+  "name": "js-7_02",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "eslint": "eslint"
+  },
+  "devDependencies": {
+    "eslint": "^8.55.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/777Evgenii/JS-7_02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/777Evgenii/JS-7_02/issues"
+  },
+  "homepage": "https://github.com/777Evgenii/JS-7_02#readme",
+  "description": "",
+  "dependencies": {
+    "prettier": "^3.1.0"
+  }
+}
